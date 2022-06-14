@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Table of Contents:
+- Self Assessment
+- Code Review
+- My Artifact
+- My Narrative
 
-You can use the [editor on GitHub](https://github.com/esimcallen/esimcallen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Self-Assessment**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Like many others, in high school I always had an idea of what I wanted to be in the future. For me, I know that I’ve always wanted to work in tech and more specifically, as a Software Engineer. After I graduated high school I transferred around to a few different schools hoping to find the best and most convenient education. I luckily stumbled upon SNHU and now 3 years later, I am completing my final class of my bachelors degree in Computer Science with a concentration in Software Engineering. Course after course I found myself learning and growing not only academically but also learning more about what it takes to survive in a professional environment. I now feel confident and prepared enough to face the real world when I do finally graduate. 
 
-### Markdown
+Some courses in particular that I feel allowed me to  gain strong computer science skills were CS- 250 Software development lifecycle, CS-340 Client/Server development and CS-330 Computer Graphic Visualization. In CS-250 I worked on  learning the roles that each person plays in a profession agile team. I really enjoyed this class and felt as it had the biggest  impact in my educational career. It gave me a sneak peak into what my future would look like. I created emails to other members of the team, attended and ran a daily startup and solved issues that occurred amongst other members. In an agile team, each of the members work together to develop the project. I learned what makes each member successful and how this overall improves the end product.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I really enjoyed my CS-340 experience, I also think that it had a strong impact in my computer science skills. In this course I created a fully functioning website where a user would be able to view and manipulate the data that was entered through a veterinarians office. The purpose of this was so that I can develop skills in python, pymongo, and mongoDB. In taking this class I also feel like I developed strong researching skills. A lot of the time I found myself debugging my code because the environment that I used ( Jupyter Notebooks) was very sensitive to incorrect code. As annoying as that was at the time, I now am happy that I went through it because I was able to become more self sufficient. I also enjoyed learning a different side of python instead of the basic one that I was used to. This course was the first time I was exposed to pymongo and it showed me how flexible and complex the programming world can be.
 
-```markdown
-Syntax highlighted code block
+While I struggled to complete this course, I feel as if I definitely learned alot and took a great amount away from this class. This course was one of my hardest but also my most rewarding courses. In CS-330 I created a 3D rendition of a image I selected on the internet. I converted sections of the image and created them as geometric shapes on a 3D plane. The shape I chose to recreate was a simple house that also had a few trees and a pond outside. I was able to recreate the house as a square for the body and a triangle for the roof. For the trees I used a cylinder for the trunk and sphere for the branches and leaves. Finally I used a sphere to represent the pond. I really learned how to develop my data structures and algorithm skills in this course because I had break each shape down and then used data structures to simplify steps that I did repeatedly. 
 
-# Header 1
-## Header 2
-### Header 3
+For this portfolio, the artifact that I will be presenting is going to be my personal website. I built this website casually in the span of a few months in between classes. The only reason it was possible to be able to do this is because the skills I gained throughout my college career. My website is something I would show to future employees who are interested in seeing what I bring to the table. It allows viewers to see previous projects I’ve developed, all while showcasing my development skills. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esimcallen/esimcallen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
