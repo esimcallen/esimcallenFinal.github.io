@@ -1,10 +1,10 @@
-Table of Contents:
+## Table of Contents:
 - Self Assessment
 - Code Review
 - My Artifact
 - My Narrative
 
-**Self-Assessment**
+# Self-Assessment
 
 Like many others, in high school I always had an idea of what I wanted to be in the future. For me, I know that I’ve always wanted to work in tech and more specifically, as a Software Engineer. After I graduated high school I transferred around to a few different schools hoping to find the best and most convenient education. I luckily stumbled upon SNHU and now 3 years later, I am completing my final class of my bachelors degree in Computer Science with a concentration in Software Engineering. Course after course I found myself learning and growing not only academically but also learning more about what it takes to survive in a professional environment. I now feel confident and prepared enough to face the real world when I do finally graduate. 
 
@@ -16,3 +16,13 @@ While I struggled to complete this course, I feel as if I definitely learned alo
 
 For this portfolio, the artifact that I will be presenting is going to be my personal website. I built this website casually in the span of a few months in between classes. The only reason it was possible to be able to do this is because the skills I gained throughout my college career. My website is something I would show to future employees who are interested in seeing what I bring to the table. It allows viewers to see previous projects I’ve developed, all while showcasing my development skills. 
 
+# Code Review
+
+# My Artifact 
+
+# Narrative
+The artifact that I decided to center this portfolio around is my personal website. I’ve been slowly chipping aways at it for the past few weeks and have gotten to a point where I feel that it is nearly ready to publish. On my website, I have an about me page where viewers can learn some information about me. I have a portfolio page that show cases the projects I’ve worked on, and finally, I have a contact page where people can write a small message to me if they need information. 
+
+I selected this artifact because I think it is the perfect demonstration of the skills I learned in action. I would also be able to use this website to advocate for myself in the job searching process. The components on the website that best showcase my skills and abilities is the portfolio page. There, viewers can click and view the different projects I’ve worked on overtime. 
+
+Throughout this semester, I spent several weeks enhancing my website. I thoroughly enjoyed this time, because I was able to drag inspiration from other pieces of work that I liked and use that to influence what I wanted to enhance. I learned that spacing out your time and actually taking the time to plan your schedule ahead of time can really make or break your project. I found that the weeks that I started chipping away at my enhancements in smaller sections, the end product look way better. In comparison to the weeks where I waited until last minute  I did not feel as confident with my work. To me feedback is really important, it lets me know that I am heading in the right direction with what’s expected of me. Anytime I received feedback from either my professor or friends, I mixed their ideas with mine to create something that flexible and appealing to all and not just me. Throughout the term, I added several components to my website, an example of that was the addition of the GitHub projects database. Another improvement I made was several user interface improvements. I wanted to tidy up a lot of sections in my website that I was not confident with. 
