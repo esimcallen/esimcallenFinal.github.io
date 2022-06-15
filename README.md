@@ -19,6 +19,12 @@ For this portfolio, the artifact that I will be presenting is going to be my per
 # Code Review
 
 # My Artifact 
+## Software Design & Engineering
+
+## Alogrithm & Data Structures
+In order to incorporate an algorithmic approach to developing this personal website I broke each section down into smaller projects. I found that I was less overwhelmed and it made my website appear more efficient. As shown at the top of my website, there are 3 different pages not including the introduction page which just features my name and occupation. I think added other pages to my website makes it less cluttered and also allows the user to see what they’re looking for, this in return makes the website more efficient. 
+## Database
+In order to enhance the artifact with respect to a database, I decided to create a database using phpMyAdmin. This database showcases a list of my previous final assignments as well as some minor information like dates, course number and GitHub links. On my portfolio section of my website, I only had 2 out of the three available project displays used. When looking for an area to add my database, I figured the third spot would be the best. Therefore, I updated the display card to show a clickable link to my database. When the user clicks the link, they will be sent to a page that lists all the records on my database. A challenge I faced in this enhancement stage was making the data selected look appealing.  
 
 # Narrative
 The artifact that I decided to center this portfolio around is my personal website. I’ve been slowly chipping aways at it for the past few weeks and have gotten to a point where I feel that it is nearly ready to publish. On my website, I have an about me page where viewers can learn some information about me. I have a portfolio page that show cases the projects I’ve worked on, and finally, I have a contact page where people can write a small message to me if they need information. 
