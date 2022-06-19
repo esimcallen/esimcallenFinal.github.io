@@ -18,6 +18,13 @@ For this portfolio, the artifact that I will be presenting is going to be my per
 
 # Code Review
 
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/y7WAcVarLW5?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/y7WAcVarLW5/embed" width="640" height="360"></iframe>
+        </div>
+
 # My Artifact 
 ## Software Design & Engineering
 The artifact that I selected was originally built in HTML and CSS. Over the weeks that I was adjusting my website theme, I came to the conclusion that using a framework would help to organize my website and make it easier to add different features without overcomplicating the code. Transitioning to incorporating more bootstrap was simple because I only had to paste the given code to activate the bootstrap and then I shopped for the components I liked. Towards the end of the designing phase when I was happy with what I saw, I knew I had to make my page more responsive. This is when I decided to use Javascript. In my Javascript code, I implemented an API that would allow my ski weather app page to pull the current weather from any city that was chosen. I was really happy with this decision because it meant that my website could be useful to others rather than being a place that people just visit to learn about me.
