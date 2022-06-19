@@ -18,12 +18,7 @@ For this portfolio, the artifact that I will be presenting is going to be my per
 
 # Code Review
 
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/y7WAcVarLW5?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/y7WAcVarLW5/embed" width="640" height="360"></iframe>
-        </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4G9QyMBAM0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # My Artifact 
 ## Software Design & Engineering
